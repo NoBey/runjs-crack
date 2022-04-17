@@ -1,0 +1,25 @@
+{
+  "name": "runjs-crack",
+  "version": "1.0.0",
+  "description": "--- runjs 下载地址 https://runjs.app/",
+  "main": "index.js",
+  "bin": {
+    "runjs-crack": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoBey/runjs-crack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoBey/runjs-crack/issues"
+  },
+  "homepage": "https://github.com/NoBey/runjs-crack#readme",
+  "dependencies": {
+    "asar": "^3.1.0"
+  }
+}
